@@ -4,3 +4,4 @@ This is a third line
 This is a fourth line
 this is a another line in note.txt
 This is a one more line in same file
+this is a simple text file
